@@ -1,5 +1,4 @@
-class Square:
-pass# ` $ date `
+# ` $ date `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Python_OOP</span>
 ```
 sáb 06 nov 2021 22:10:12 -03
